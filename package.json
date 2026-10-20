@@ -1,0 +1,64 @@
+{
+  "name": "don-cheli-sdd",
+  "version": "1.32.0",
+  "description": "Don Cheli SDD Framework — 93+ commands, 51 skills, 15 reasoning models, Autonomous Mode, TDD Iron Law, OWASP audit, PRD Generator, Crash Recovery. Works with Claude Code, Gemini, Cursor, Codex, Warp, Amp, OpenCode. ES/EN/PT.",
+  "main": "bin/don-cheli.js",
+  "scripts": {
+    "instalar": "bash scripts/instalar.sh",
+    "bucle": "bash scripts/bucle.sh",
+    "validar": "bash scripts/validar.sh",
+    "postinstall": "echo '\\n  ✅ Don Cheli SDD instalado. Ejecuta: don-cheli install --global\\n'"
+  },
+  "keywords": [
+    "claude-code",
+    "sdd",
+    "ai-framework",
+    "prompt-engineering",
+    "developer-tools",
+    "tdd",
+    "llm",
+    "especificaciones",
+    "español",
+    "agentes-ia",
+    "claude-ai",
+    "spec-driven-development",
+    "rlm",
+    "estimados"
+  ],
+  "homepage": "https://www.doncheli.tv",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doncheli/don-cheli-sdd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doncheli/don-cheli-sdd/issues"
+  },
+  "author": "Jose Luis Oronoz Troconis <@doncheli>",
+  "license": "Apache-2.0",
+  "bin": {
+    "don-cheli": "bin/don-cheli.js",
+    "don-cheli-sdd": "bin/don-cheli.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "bin/",
+    ".agent/",
+    ".claude-plugin/",
+    "comandos/",
+    "habilidades/",
+    "reglas/",
+    "plantillas/",
+    "agentes/",
+    "ganchos/",
+    "scripts/",
+    "locales/",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "prompt.md",
+    "VERSION",
+    "CHANGELOG.md",
+    "ARCHITECTURE.md"
+  ]
+}

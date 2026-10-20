@@ -1,0 +1,15 @@
+dc:iniciar
+dc:comenzar
+dc:poc
+dc:estimar
+dc:rapido
+dc:estado
+dc:avance-rapido
+dc:especificar
+dc:implementar
+dc:changelog-auto
+dc:context-health
+razonar:pre-mortem
+razonar:pareto
+razonar:costo-oportunidad
+razonar:minimizar-arrepentimiento

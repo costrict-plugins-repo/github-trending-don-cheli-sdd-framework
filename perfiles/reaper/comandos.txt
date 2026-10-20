@@ -1,0 +1,16 @@
+dc:iniciar
+dc:comenzar
+dc:auditar-seguridad
+dc:contrato-api
+dc:explorar
+dc:reversa
+dc:revisar
+dc:especificar
+dc:implementar
+dc:data-policy
+dc:pr-review
+dc:drift
+razonar:pre-mortem
+razonar:inversion
+razonar:primeros-principios
+razonar:5-porques
